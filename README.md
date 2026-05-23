@@ -22,3 +22,11 @@ This repository is an educational resource. Technologies and best practices evol
 * As a Knowledge Base - Save useful patterns commands, snippets, and lessons learned during development
 
 > I encourage you to start and maintain your own knowledge base, and while a lot of this information is commonly shared between tech workers, this repo is still curated to the technologies I use and am interested in. For that reason, there will not be any outside contribution to this repo. Please feel free to fork this repo and make it your own.
+
+## Topics Covered
+
+* [Terminology](/terminology.md)
+* [CS Fundamentals](/fundamentals/README.md)
+* [Programming Languages](/languages/README.md)
+* [Software Engineering](/engineering/README.md)
+* [DevOps & Infrastructure](/infrastructure/README.md)
