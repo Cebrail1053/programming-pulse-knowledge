@@ -67,5 +67,5 @@ So in practice, many modern languages combine aspects of both compiled and inter
 
 Check the following links for more information including code snippets and templates for a given language:
 
-* [Java](java.md)
-* [Python](python.md)
+* [Java](java/java.md)
+* [Python](python/python.md)
