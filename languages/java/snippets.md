@@ -2,13 +2,13 @@
 
 ### Converting Strings to `int`, and `int` to String
 
-```
+```java
 String numToString = String.valueOf(2); // integer converted to numeric string
 int stringToNum = Integer.parseInt(numToString); //numeric string converted to int
 ```
 
 ### Append text to file
-```
+```java
 BufferedWriter out = null;
 try {
     out = new BufferedWriter(new FileWriter("filename", true));
