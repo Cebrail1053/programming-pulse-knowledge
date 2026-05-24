@@ -60,3 +60,12 @@ But of course there's downsides, like slower execution due to the overhead of in
 * Python compiles to bytecode before interpretation in CPython
 
 So in practice, many modern languages combine aspects of both compiled and interpreted execution models.
+
+---
+
+> ⚠️ Keep in mind this repository is not meant to supplement an actual programming course. This is simply a collection of information that can be used as reference material or a study aide. It's up to you to learn your programming language of choice.
+
+Check the following links for more information including code snippets and templates for a given language:
+
+* [Java](java.md)
+* [Python](python.md)
